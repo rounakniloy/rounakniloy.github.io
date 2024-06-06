@@ -26,4 +26,4 @@
 - **R. S. Niloy**, M. J. Dipto and M. M. M. Hassan, "Hydrodynamic performance analysis of a hydrofoil supported high-speed vessel using computational fluid dynamics," in _International Conference on Marine Technology_, Dhaka, Bangladesh, 2022, pp. 29-1--29-5, doi: [10.2139/ssrn.4451487](https://doi.org/10.2139/ssrn.4451487).
 
 ### Presentations
-- **R. S. Niloy**, "Multi-Concept Optimization: Challenges and Opportunities," presented at the (_2023 Workshop on AI-based Optimisation (AI-OPT 2023)_), Melbourne, Australia, December 2023.
+- **R. S. Niloy**, "Multi-Concept Optimization: Challenges and Opportunities," presented at the _2023 Workshop on AI-based Optimisation (AI-OPT 2023)_, Melbourne, Australia, December 2023.
