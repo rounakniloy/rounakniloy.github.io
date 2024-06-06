@@ -1,5 +1,3 @@
-# rounakniloy.github.io
-
 ### Education
 Master of Engineering (Research) in Mechanical Engineering
 University of New South Wales
