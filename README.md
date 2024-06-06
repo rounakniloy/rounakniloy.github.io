@@ -1,9 +1,9 @@
 ### Education
-- **Master of Engineering (Research) in Mechanical Engineering**
-  University of New South Wales
+- **Master of Engineering (Research) in Mechanical Engineering** <br />
+  University of New South Wales <br />
   (_May 2024_)
-- **Bachelor of Science in Naval Architecture & Marine Engineering**
-  Bangladesh University of Engineering & Technology
+- **Bachelor of Science in Naval Architecture & Marine Engineering** <br />
+  Bangladesh University of Engineering & Technology <br />
   (_October 2018_)
 
 ### Work Experience
