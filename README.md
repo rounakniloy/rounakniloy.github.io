@@ -21,9 +21,9 @@
 - Ensured drawing accuracy and clarity for seamless communication between design and production teams
 
 ### Publications
-- **R. S. Niloy**, H. K. Singh, and T. Ray, "A benchmark test suite for evolutionary multi-objective multi-concept optimization," (_Swarm and Evolutionary Computation_), vol. 84, pp. 101429, Feb. 2024, doi: [10.1016/j.swevo.2023.101429](https://10.1016/j.swevo.2023.101429).
-- **R. S. Niloy**, H. K. Singh and T. Ray, "A brief review of multi-concept multi-objective optimization problems," in (_2023 IEEE Symposium Series on Computational Intelligence (SSCI)_), Mexico City, Mexico, pp. 1511--1517, doi: [10.1109/SSCI52147.2023.10371911](https://10.1109/SSCI52147.2023.10371911).
-- **R. S. Niloy**, M. J. Dipto and M. M. M. Hassan, "Hydrodynamic performance analysis of a hydrofoil supported high-speed vessel using computational fluid dynamics," in (_International Conference on Marine Technology_), Dhaka, Bangladesh, 2022, pp. 29-1--29-5, doi: [10.2139/ssrn.4451487](https://10.2139/ssrn.4451487).
+- **R. S. Niloy**, H. K. Singh, and T. Ray, "A benchmark test suite for evolutionary multi-objective multi-concept optimization," (_Swarm and Evolutionary Computation_), vol. 84, pp. 101429, Feb. 2024, doi: [10.1016/j.swevo.2023.101429](https://doi.org/10.1016/j.swevo.2023.101429).
+- **R. S. Niloy**, H. K. Singh and T. Ray, "A brief review of multi-concept multi-objective optimization problems," in (_2023 IEEE Symposium Series on Computational Intelligence (SSCI)_), Mexico City, Mexico, pp. 1511--1517, doi: [10.1109/SSCI52147.2023.10371911](https://doi.org/10.1109/SSCI52147.2023.10371911).
+- **R. S. Niloy**, M. J. Dipto and M. M. M. Hassan, "Hydrodynamic performance analysis of a hydrofoil supported high-speed vessel using computational fluid dynamics," in (_International Conference on Marine Technology_), Dhaka, Bangladesh, 2022, pp. 29-1--29-5, doi: [10.2139/ssrn.4451487](https://doi.org/10.2139/ssrn.4451487).
 
 ### Presentations
 - **R. S. Niloy**, "Multi-Concept Optimization: Challenges and Opportunities," presented at the (_2023 Workshop on AI-based Optimisation (AI-OPT 2023)_), Melbourne, Australia, December 2023.
