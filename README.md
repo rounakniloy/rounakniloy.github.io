@@ -10,7 +10,7 @@
 - Generated comprehensive reports documenting project progress, milestones, and outcomes for transparent tracking of all project activities
 
 **Assistant Naval Architect** @ ShipDyn Ltd.
--Developed a 3D model for the patented **Y-Hull**, showcasing advanced design skills
+- Developed a 3D model for the patented **Y-Hull**, showcasing advanced design skills
 - Conducted detailed hydrodynamic performance analyses on designed vessels, contributing to the optimization of their operational efficiency
 - Supervised construction of vessel, ensuring alignment with design specifications and project timelines
 - Played a key role in preparing production drawings for upcoming vessel construction projects
