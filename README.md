@@ -1,8 +1,8 @@
 ### Education
-- Master of Engineering (Research) in Mechanical Engineering
+- **Master of Engineering (Research) in Mechanical Engineering**
   University of New South Wales
   (_May 2024_)
-- Bachelor of Science in Naval Architecture & Marine Engineering
+- **Bachelor of Science in Naval Architecture & Marine Engineering**
   Bangladesh University of Engineering & Technology
   (_October 2018_)
 
