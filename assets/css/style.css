@@ -834,6 +834,11 @@ main {
   line-height: 1.6;
 }
 
+.timeline-text li {
+  list-style-type: disc; /* Change "disc" to "circle" or other desired style */
+  margin-left: 20px; /* Adjust left margin if needed */
+}
+
 
 /**
  * skills 
