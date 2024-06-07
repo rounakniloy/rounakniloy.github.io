@@ -492,10 +492,6 @@ main {
 
 .navbar-link.active { color: var(--orange-yellow-crayola); }
 
-
-
-
-
 /*-----------------------------------*\
   #ABOUT
 \*-----------------------------------*/
@@ -510,6 +506,8 @@ main {
 }
 
 .about-text p { margin-bottom: 15px; }
+
+
 
 /**
  * #service 
@@ -758,11 +756,6 @@ main {
 }
 
 .clients-item img:hover { filter: grayscale(0); }
-
-
-
-
-
 
 
 /*-----------------------------------*\
