@@ -1252,6 +1252,10 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-img,
   .blog-banner-box { height: auto; }
+  
+  .text-list{
+    margin-bottom: 10pt;
+  }
 
   .text-list-style li{
     list-style-type: number;
@@ -1259,6 +1263,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+    margin-left: 5pt;
   }
 
 }
@@ -1284,12 +1289,17 @@ textarea.form-input::-webkit-resizer { display: none; }
   .project-img,
   .blog-banner-box { height: auto; }
 
+  .text-list{
+    margin-bottom: 10pt;
+  }
+
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+    margin-left: 5pt;
   }
 
 }
@@ -1581,12 +1591,17 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .form-btn ion-icon { font-size: 18px; }
 
+  .text-list{
+    margin-bottom: 10pt;
+  }
+
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+    margin-left: 5pt;
   }
 
 }
@@ -1689,12 +1704,17 @@ textarea.form-input::-webkit-resizer { display: none; }
     margin-left: auto;
   }
 
+  .text-list{
+    margin-bottom: 10pt;
+  }
+
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+    margin-left: 5pt;
   }
   
 }
@@ -1812,12 +1832,17 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .blog-banner-box { height: 230px; }
 
+  .text-list{
+    margin-bottom: 10pt;
+  }
+
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+    margin-left: 5pt;
   }
 
 }
@@ -1945,14 +1970,17 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+  .text-list{
+    margin-bottom: 10pt;
+  }
+
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
-	  padding-left: 10px;
-	  margin-left: 20px;
+    margin-left: 5pt;
   }
 
 }
