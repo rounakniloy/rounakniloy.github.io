@@ -1977,8 +1977,9 @@ textarea.form-input::-webkit-resizer { display: none; }
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
+    word-wrap: break-word;
     font-weight: normal;
-    font-size: 12pt;
+    font-size: 10pt;
     margin: 5pt 0;
     margin-left: 20pt;
   }
