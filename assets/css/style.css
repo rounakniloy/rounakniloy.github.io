@@ -1882,4 +1882,12 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .timeline-text { max-width: 700px; }
 
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
+  }
+
 }
