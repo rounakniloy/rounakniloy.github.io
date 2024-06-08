@@ -1,0 +1,10 @@
+@masterthesis{Rounak2024Investigation,
+  title        = {Investigation of test problems and algorithmic strategies for multi-objective multi-concept optimization},
+  author       = {Rounak Saha Niloy},
+  year         = {2024},
+  month        = {February},
+  address      = {Canberra, ACT, Australia},
+  doi         = {https://doi.org/10.26190/unsworks/30106},
+  school       = {University of New South Wales Canberra},
+  type         = {Master's thesis}
+}
