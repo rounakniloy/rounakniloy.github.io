@@ -1233,6 +1233,37 @@ textarea.form-input::-webkit-resizer { display: none; }
 \*-----------------------------------*/
 
 /**
+ * responsive smaller than 450px screen
+ */
+
+@media (max-width: 450px) {
+
+  /**
+   * client
+   */
+
+  .clients-item { min-width: calc(33.33% - 10px); }
+
+
+
+  /**
+   * #PORTFOLIO, BLOG 
+   */
+
+  .project-img,
+  .blog-banner-box { height: auto; }
+
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
+  }
+
+}
+
+/**
  * responsive larger than 450px screen
  */
 
@@ -1252,6 +1283,14 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .project-img,
   .blog-banner-box { height: auto; }
+
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
+  }
 
 }
 
@@ -1542,6 +1581,14 @@ textarea.form-input::-webkit-resizer { display: none; }
 
   .form-btn ion-icon { font-size: 18px; }
 
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
+  }
+
 }
 
 
@@ -1640,6 +1687,14 @@ textarea.form-input::-webkit-resizer { display: none; }
   .form-btn {
     width: max-content;
     margin-left: auto;
+  }
+
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
   }
   
 }
@@ -1756,6 +1811,14 @@ textarea.form-input::-webkit-resizer { display: none; }
    */
 
   .blog-banner-box { height: 230px; }
+
+  .text-list-style li{
+    list-style-type: number;
+    flex-wrap: wrap;
+    font-weight: normal;
+    font-size: 10pt;
+    margin: 5pt 0;
+  }
 
 }
 
@@ -1888,6 +1951,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
+	  padding-left: 20px;
   }
 
 }
