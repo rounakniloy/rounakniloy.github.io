@@ -1225,7 +1225,7 @@ textarea.form-input::-webkit-resizer { display: none; }
 .form-btn:disabled:hover::before { background: var(--bg-gradient-jet); }
 
 
-
+.filter-select-box { display: none; }
 
 
 /*-----------------------------------*\
@@ -1264,7 +1264,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
-    margin-left: 10pt;
+    margin-left: 20pt;
+    text-align: justify;
   }
 
 }
@@ -1297,10 +1298,13 @@ textarea.form-input::-webkit-resizer { display: none; }
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
+    word-wrap: break-word;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
-    margin-left: 10pt;
+    margin-left: 20pt;
+    text-align: justify;
+    padding-left: 10pt;
   }
 
 }
@@ -1983,6 +1987,8 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-size: 10pt;
     margin: 5pt 0;
     margin-left: 20pt;
+    padding-left: 10 pt;
+    text-align: justify;
   }
 
 }
