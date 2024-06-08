@@ -1978,9 +1978,9 @@ textarea.form-input::-webkit-resizer { display: none; }
     list-style-type: number;
     flex-wrap: wrap;
     font-weight: normal;
-    font-size: 10pt;
+    font-size: 12pt;
     margin: 5pt 0;
-    margin-left: 5pt;
+    margin-left: 20pt;
   }
 
 }
