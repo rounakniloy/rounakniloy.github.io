@@ -1260,10 +1260,11 @@ textarea.form-input::-webkit-resizer { display: none; }
   .text-list-style li{
     list-style-type: number;
     flex-wrap: wrap;
+    word-wrap: break-word;
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
-    margin-left: 5pt;
+    margin-left: 10pt;
   }
 
 }
@@ -1299,7 +1300,7 @@ textarea.form-input::-webkit-resizer { display: none; }
     font-weight: normal;
     font-size: 10pt;
     margin: 5pt 0;
-    margin-left: 5pt;
+    margin-left: 10pt;
   }
 
 }
