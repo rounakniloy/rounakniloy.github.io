@@ -199,6 +199,8 @@ article {
 /* social-media icons */
 .socials-icons{
   color: var(--orange-yellow-crayola);
+  justify-content: center;
+  align-items: center;
 
 }
 
